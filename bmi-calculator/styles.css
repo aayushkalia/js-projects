@@ -1,0 +1,37 @@
+.container h1{
+    text-align: center;
+}
+.inputbmiclass{
+    display: flex;
+}
+.weightclass,.heightclass{
+    margin: 1rem;
+}
+button{
+    border: 2px solid #212121;
+    border-radius: 8px;
+    align-items: center;
+    padding: 8px 18px;
+    margin-left: 105px;
+
+}
+#height,#weight{
+    width: 150px;
+  height: 25px;
+  margin-top: 30px;
+}
+#results {
+    font-size: 35px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color:black;
+  }
+.resultguide{
+    margin-left: 90px;
+    font-size: 13px;
+}
+h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+    
+  }
